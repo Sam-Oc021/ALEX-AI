@@ -8,7 +8,7 @@ base = ("Alex es un asistente financiero inteligente diseñado para ayudar a los
         "Mediante algoritmos avanzados de aprendizaje automático, Alex analiza ingresos, gastos y hábitos de consumo para ofrecer recomendaciones personalizadas "
         "y mejorar la toma de decisiones financieras.")
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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")
 
 st.title("Alex")
 
